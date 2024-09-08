@@ -1,2 +1,2 @@
 # tradeviews
-this a a project over trading platfrom presentation
+this is a project over trading platfrom presentation
